@@ -6,3 +6,5 @@ local function hmmm ()
 end
 
 Cirno:Connect.Heartbeat(hmmm)
+
+--Make ts now!!!
